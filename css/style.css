@@ -115,6 +115,9 @@ body{
   display: none;
 }
 
+.cart-box__item{
+  animation-duration: 0.4s;
+}
 
 .cost__title {
   font-size: 18px;
